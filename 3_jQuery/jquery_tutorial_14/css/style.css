@@ -1,0 +1,30 @@
+.div_next {
+    display: inline-block;
+    border-style : solid;
+    padding-top: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+
+}
+
+.title{
+    color: blue;
+}
+
+.book{
+    border-style : solid;
+    border-color: green;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+
+}
+
+button{
+    background-color: grey;
+    color: #FFFFFF;
+    width: 90px;
+    height: 40px;
+}

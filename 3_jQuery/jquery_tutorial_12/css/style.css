@@ -1,0 +1,17 @@
+
+table {
+  margin: 5%;
+  font-family: Arial;
+  font-size: 1.25em;
+}
+table, th, td {
+  border: 1px solid purple;
+  border-collapse: collapse;
+}
+th, td {
+  padding: .25em;
+}
+th {
+  background-color: purple;
+  color: white;
+}

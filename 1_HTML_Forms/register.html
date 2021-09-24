@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Register</title>
+</head>
+<body>
+    <form>
+        First Name: <input type="text" name="firstname"><br>
+        Last Name: <input type="text" name="lastname"><br>
+        Password: <input type="password" minlength="5" name="password"><br>
+        Email: <input type="email" required name="email"><br>
+        Birthday: <input type="date" name="birthday"><br>
+        Gender:<br>
+        <input type="radio" name="gender" value="male">Male<br>
+        <input type="radio" name="gender" value="female">Female<br>
+        <input type="radio" name="gender" value="others">Others<br>
+        Pets: <br>
+        <input type="checkbox" name="dogs"> Dogs<br>
+        <input type="checkbox" name="cats"> Cats<br>
+        Courses: <br>
+            <select name="courses">
+                <option value="Complete Web Development" name="Complete Web Development">Complete Web Development</option>
+                <option value="Complete Python Development" name="Complete Web Development">Complete Python Development</option>
+            </select><br>
+        <input type="submit" value="Register!">
+        <input type="reset">
+    </form>
+</body>
+</html>
+
+<!-- Query String -->
+<!-- ?firstname=fake&lastname=doubleFake&password=triplefake&email=fakefake%40gmail.com&birthday=2020-09-01&gender=male&dogs=on&courses=Complete+Web+Development -->

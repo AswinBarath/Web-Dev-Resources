@@ -1,0 +1,28 @@
+.beautify{
+  background-color: yellow;
+  font-weight: bold;
+  color: green;
+  padding-left: 120px;
+}
+
+.blue_border{
+  border-style: dashed;
+  border-color: blue;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+}
+
+.important{
+  color: red;
+  font-weight: bold;
+  font-size: 15px;
+}
+
+#super{
+  border-style: dotted;
+  border-color: red;
+  padding-top: 50px;
+  padding-left: 50px;
+  padding-bottom: 50px;
+}

@@ -1,0 +1,20 @@
+JavaScript
+    JavaScript was created in 1995 by the netscape web browser.
+    Think of Javascript as the "verb" to do anything on the website.
+
+    Back in those days every browser started to have their own version of JavaScript.
+    So, eventually a standard had to created, which is known as ECMAscript.
+    JavaScript and ECMAscript can be used interchangeably.
+    Web Developer Fundamentals 2: browser compatibility issue.
+
+    JavaScript can used :
+        the web, app(instagram), virtual reality (games, apps ...), drones, robotics, backend.
+    
+    Beauty of JavaScript: it's a file.
+    Big web app -> one logic at a time.
+
+SectionOutline
+    shortcut : ctrl + shift + j -> console
+    practiced exercise1 - basictypes
+    practiced exercise2 - varibles
+
