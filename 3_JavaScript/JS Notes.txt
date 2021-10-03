@@ -1,0 +1,59 @@
+JavaScript
+    JavaScript was created in 1995 by the netscape web browser.
+    Think of Javascript as the "verb" to do anything on the website.
+
+    Back in those days every browser started to have their own version of JavaScript.
+    So, eventually a standard had to created, which is known as ECMAscript.
+    JavaScript and ECMAscript can be used interchangeably.
+    Web Developer Fundamentals 2: browser compatibility issue.
+
+    JavaScript can used :
+        the web, app(instagram), virtual reality (games, apps ...), drones, robotics, backend.
+    
+    Beauty of JavaScript: it's a file.
+    Big web app -> one logic at a time.
+
+SectionOutline
+    shortcut : ctrl + shift + j -> console
+    practiced exercise1 - basictypes
+    practiced exercise2 - varibles
+
+DOM Manipulation
+    change all the HTML elements in the page
+    change all the HTML attributes in the page
+    change all the CSS styles in the page
+    remove existing HTML elements and attributes
+    add new HTML elements and attributes
+    JavaScript can react to all existing HTML events in the page
+    JavaScript can create new HTML events in the page
+
+--------------
+DOM Selectors
+--------------
+getElementsByTagName
+getElementsByClassName
+getElementById
+
+querySelector
+querySelectorAll
+
+getAttribute
+setAttribute
+
+## Changing Styles
+style.{property} //ok
+
+className //best
+classList //best
+
+classList.add
+classList.remove
+classList.toggle
+
+## Bonus
+innerHTML //DANGEROUS
+
+parentElement
+children
+
+## Note: It is important to CACHE selectors in variables
